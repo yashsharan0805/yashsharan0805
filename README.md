@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sharan</h1>
-<h3 align="center">I am currently working in Udaan as a product engineer</h3>
+<h3 align="center">I am currently working in Udaan as a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsharan0805&label=Profile%20views&color=0e75b6&style=flat" alt="yashsharan0805" /> </p>
 
